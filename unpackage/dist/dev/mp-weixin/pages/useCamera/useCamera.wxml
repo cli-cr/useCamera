@@ -1,0 +1,1 @@
+<view><user-camera vue-id="49227ba6-1" imageLength="{{imageLength}}" imageList="{{imageList}}" data-event-opts="{{[['^refresh',[['refresh']]]]}}" bind:refresh="__e" bind:__l="__l"></user-camera><view class="button-group"><button data-event-opts="{{[['tap',[['applyAdd',['$event']]]]]}}" bindtap="__e">保存</button></view></view>

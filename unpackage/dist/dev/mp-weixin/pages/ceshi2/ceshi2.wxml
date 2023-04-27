@@ -1,0 +1,1 @@
+<view class="content"><button data-event-opts="{{[['tap',[['chooseImage',['$event']]]]]}}" bindtap="__e">拍照或选择图片</button><image src="{{imgUrl}}" mode="widthFix"></image></view>

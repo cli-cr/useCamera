@@ -1,0 +1,1 @@
+<view class="content"><text>首页</text><button data-event-opts="{{[['tap',[['goChat',['$event']]]]]}}" bindtap="__e">点击跳转聊天页</button></view>
